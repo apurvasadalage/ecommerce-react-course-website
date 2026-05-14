@@ -11,7 +11,7 @@ export default function Home() {
           Discover amazing products at great prices
         </p>
       </div>
-      <div className="conatiner">
+      <div className="container">
         <h2 className="page-title">Our Products</h2>
         <div className="product-grid">
           {products.map((product) => (
